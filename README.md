@@ -29,3 +29,7 @@ React, GraphQL, Just to name the most important.
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=esneyder&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&icon_color=2234AE&text_color=D3D3D3&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esneyder&include_all_commits=true&count_private=true&show_icons=true&hide=TeX&layout=compact&theme=tokyonight&text_color=D3D3D3&hide_border=true)
+
