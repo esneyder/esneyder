@@ -15,3 +15,17 @@ React, GraphQL, Just to name the most important.
 - 🤔 I’m looking for help with new things to learn, what do you recommend me
 - 💬 Ask me about anything from programming
  
+## ⚡ Technologies
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastApi](https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-4B275F?style=flat-square&logo=flutter)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Go](https://img.shields.io/badge/Golang-4B275F?style=flat-square&logo=go)
