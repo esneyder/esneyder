@@ -1,7 +1,9 @@
-### Hi there 👋
+# Hi there 👋 I'm Esneyder Alvarez
 
- 
-**esneyder/esneyder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My specialty is Backend development 🚀
+I always seek to implement the best solutions when facing a new project 
+On a daily basis I have uses: GO, Net Core, Python,Flutter, JavaScript (ES6),
+React, GraphQL, Just to name the most important.
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esneyder/)](https://www.linkedin.com/in/ingrengifo/)
  [![Twitter Badge](https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/IngRengifo)](https://twitter.com/EdwinEsneyder)
