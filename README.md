@@ -30,6 +30,7 @@ React, GraphQL, Just to name the most important.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=esneyder&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&icon_color=2234AE&text_color=D3D3D3&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esneyder&include_all_commits=true&count_private=true&show_icons=true&hide=TeX&layout=compact&theme=tokyonight&text_color=D3D3D3&hide_border=true)
-
+<a href="https://github.com/esneyder">
+  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=esneyder&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="esneyder GitHub stats" />
+  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adw0rd&theme=dracula&hide_border=true&layout=compact&include_all_commits=true&count_private=true&langs_count=8" alt="esneyder GitHub top languages" />
+</a>
