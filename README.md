@@ -9,7 +9,7 @@ React, GraphQL, Just to name the most important.
  [![Twitter Badge](https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/IngRengifo)](https://twitter.com/EdwinEsneyder)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:edesalla17@gmail.com)](mailto:edesalla17@gmail.com)
 
-- 🔭 I’m currently working on [Beu](https://beu.is/) full time
+- 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Informatic security
 - 👯 I’m looking to collaborate on  any interesting project
 - 🤔 I’m looking for help with new things to learn, what do you recommend me
@@ -30,7 +30,3 @@ React, GraphQL, Just to name the most important.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 
-<a href="https://github.com/esneyder">
-  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=esneyder&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="esneyder GitHub stats" />
-  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adw0rd&theme=dracula&hide_border=true&layout=compact&include_all_commits=true&count_private=true&langs_count=8" alt="esneyder GitHub top languages" />
-</a>
